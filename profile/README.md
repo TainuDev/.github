@@ -1,7 +1,13 @@
 # 🚀 TainuDev | Software House
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,tailwind" />
+  <img title="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img title="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img title="React.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+  <img title="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+  <img title="Tailwind CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img title="Node.js" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img title="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
   <br />
   <p><strong>Transformando ideias em soluções modulares e escaláveis.</strong></p>
 </div>
@@ -25,7 +31,7 @@ Desenvolvemos com o que há de melhor no mercado para garantir velocidade e segu
 | **Frontend** | React.js, Next.js, TypeScript |
 | **Estilização** | Tailwind CSS, Styled Components |
 | **Backend** | Node.js, Fastify, NestJS |
-| **Banco de Dados** | PostgreSQL, MongoDB, Redis |
+| **Banco de Dados** | PostgreSQL, MongoDB, Redis, MySQL, Google Cloude |
 | **Infra & DevOps** | Docker, GitHub Actions, Vercel |
 
 ---
@@ -52,10 +58,10 @@ Desenvolvimento de plataformas personalizadas de vendas, incluindo integrações
 Sempre abertos a novas parcerias e projetos desafiadores em toda a região da Grande Vitória.
 
 <p align="left">
-  <a href="mailto:seu-email@dominio.com" target="_blank">
+  <a href="mailto:thainnosv@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://linkedin.com/in/thainno-santana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
